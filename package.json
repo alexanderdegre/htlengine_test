@@ -1,0 +1,9 @@
+{
+    "name": "testhtl",
+    "version": "1.0.0",
+    "description": "asdf",
+    "main": "index.js",
+    "dependencies": {
+        "@adobe/htlengine": "^1.0.3"
+    }
+}
